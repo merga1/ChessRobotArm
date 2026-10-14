@@ -1,0 +1,6 @@
+chess
+pyserial
+opencv-python
+numpy
+pillow
+# cairoSVG (optional; requires native libcairo-2.dll on Windows)
